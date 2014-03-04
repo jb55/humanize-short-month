@@ -12,7 +12,7 @@
 ## API
 
 ```js
-var humanize = require('humanize-short-month ')
+var humanize = require('humanize-short-month')
 
 humanize('dec2013') // -> December 2013
 humanize('feb') // -> February
