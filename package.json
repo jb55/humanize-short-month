@@ -1,0 +1,18 @@
+{
+  "name": "humanize-short-month",
+  "description": "humanize dec -> December, dec2014 -> December 2014",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/jb55/humanize-short-month.git"
+  },
+  "main": "yes",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "should": "~3.1.3",
+    "mocha": "~1.17.1",
+    "make-test": "~0.1.0"
+  }
+}
