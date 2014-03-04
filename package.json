@@ -1,7 +1,7 @@
 {
   "name": "humanize-short-month",
-  "description": "humanize dec -> December, dec2014 -> December 2014",
-  "version": "0.0.0",
+  "description": "humanize short months: dec2014 -> December 2014",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/jb55/humanize-short-month.git"
   },
