@@ -1,6 +1,5 @@
-
 var lookup = {
-  "jan": "December",
+  "jan": "January",
   "feb": "February",
   "mar": "March",
   "apr": "April",
